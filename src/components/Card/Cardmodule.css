@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+  .image {
+    width: 100%;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

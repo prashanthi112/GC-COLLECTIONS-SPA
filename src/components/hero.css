@@ -1,0 +1,22 @@
+.hero {
+  height: 100vh;
+  background: url("/images/GC Collection.png") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  padding-left: 60px;
+}
+
+/* Text styling */
+.hero-content {
+  color: white;
+}
+
+/* Button */
+.btn {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #b89b5e;
+  border: none;
+  color: white;
+  border-radius: 25px;
+}

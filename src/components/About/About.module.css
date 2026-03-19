@@ -1,0 +1,41 @@
+/* Main container */
+.container {
+  max-width: 800px;
+  margin: 80px auto 0;
+  padding: 40px 20px;
+  text-align: center;
+
+  background: linen;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  box-sizing: border-box;
+}
+
+/* Title */
+.title {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+/* Paragraph text */
+.text {
+  font-size: 18px;
+  line-height: 1.6;
+  color: black;
+  margin-bottom: 30px;
+}
+
+/* Back to Home button */
+.backButton {
+  background-color: linen;
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+
+
