@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GC-COLLECTIONS-SPA/static/css/main.c779dda0.css",
+    "main.js": "/GC-COLLECTIONS-SPA/static/js/main.190f3006.js",
+    "index.html": "/GC-COLLECTIONS-SPA/index.html",
+    "main.c779dda0.css.map": "/GC-COLLECTIONS-SPA/static/css/main.c779dda0.css.map",
+    "main.190f3006.js.map": "/GC-COLLECTIONS-SPA/static/js/main.190f3006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c779dda0.css",
+    "static/js/main.190f3006.js"
+  ]
+}
