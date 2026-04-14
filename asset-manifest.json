@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GC-COLLECTIONS-SPA/static/css/main.c779dda0.css",
-    "main.js": "/GC-COLLECTIONS-SPA/static/js/main.d2854ab3.js",
+    "main.js": "/GC-COLLECTIONS-SPA/static/js/main.b54204f0.js",
     "index.html": "/GC-COLLECTIONS-SPA/index.html",
     "main.c779dda0.css.map": "/GC-COLLECTIONS-SPA/static/css/main.c779dda0.css.map",
-    "main.d2854ab3.js.map": "/GC-COLLECTIONS-SPA/static/js/main.d2854ab3.js.map"
+    "main.b54204f0.js.map": "/GC-COLLECTIONS-SPA/static/js/main.b54204f0.js.map"
   },
   "entrypoints": [
     "static/css/main.c779dda0.css",
-    "static/js/main.d2854ab3.js"
+    "static/js/main.b54204f0.js"
   ]
 }
